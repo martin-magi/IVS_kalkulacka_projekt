@@ -1,0 +1,35 @@
+Plan projektu IVS 
+
+Vedouci: xmikulm00 
+
+Stanovené termíny: 
+Termín prvního uploadu testů: 6.4.2025
+Termín uploadu netestované verze kalkulacky a Odchylky: 13.4.2025
+Termín dokončení testování kalkulačky" 20.4.2025
+Termin napojeni UserInterface : 20.04.2025
+Termín zprovoznění installátoru: 25.4.2025 
+Finální debugging: 27.04.2025
+Dokumentace: 29.4.25
+
+
+Přidělení úkolů na projektu jednotlivým řešitelům: 
+  Testy: Martin Magvaši
+  User Interface: David Lechman
+  Kalkulačka a Odchylka: Tamara Lieskovská
+  Instalátor: Markéta Mikulicová 
+  Dohled a organiazce: Markéta Mikulicová
+
+
+Zvolené komunikační kanály pro komunikaci v týmu a stanovená pravidla pro komunikaci (jsou-li nějaká): 
+  Komunikace bude probíhat pomocí serveru na Discordu, kde máme různé kanály sloužící různým účelům, pro snažší organizaci. Setkání týmu proběhne v intervalu cca dvou týdnů. V přípúadě potřeby, dojde
+k úpravě frekvence. 
+Pro případ rychlejší komunikace a odezvy máme sdílení kontakty na sociální síti Instagram. 
+
+Pravidal 
+  - Každý člen týmu je zodpovedný za dokončení své části v daném termínu, lze využít pomoci zbytku týmu. Dodržení termínu je však na zodpovědné osobě. 
+  - Pokud by byl problém dodržet termín nebo došlo k náhlé změně člen Týmu je povinnen co nejdříve informovat zbytek týmu
+
+Zvolený systém pro správu verzí a hosting + informaci, jak do repozitáře mohou nahlédnout vyučující/cvičící (viz níže).
+  Zvolili jsme git hub kde máme vytvořený repozotář projektu. Jedná se o private repozitář, VYUČUJÍCÍ MOHOU NAHLÍŽET BYL JIM UDĚLĚN PŘÍSTUP DO REPOZITÁŘE. 
+
+
